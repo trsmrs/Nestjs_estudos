@@ -42,7 +42,7 @@ O objetivo é consolidar conhecimento, testar ideias e criar uma base de referê
 ```bash
 /
 ├── fundamentos/
-│   └── hello-world/
+│   └── [Bootstrap, Decorators, Module, Controller, Service]/
 ├── banco-de-dados/
 │   ├── typeorm-exemplo/
 │   └── prisma-exemplo/
